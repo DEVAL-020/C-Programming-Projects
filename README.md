@@ -78,7 +78,6 @@ These projects were built to:
 ## Author
 
 **Deval Patel**
-Computer Engineering Student
 
 ## License
 
