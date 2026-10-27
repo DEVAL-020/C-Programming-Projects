@@ -78,7 +78,3 @@ These projects were built to:
 ## Author
 
 **Deval Patel**
-
-## License
-
-This project is licensed under the MIT License.
