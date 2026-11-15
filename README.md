@@ -65,11 +65,7 @@ cd project-folder-name
 gcc program.c -o program
 ```
 
-
-
 ## Learning Goals
-
-
 
 These projects were built to:
 
